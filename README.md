@@ -4,6 +4,8 @@ Rodrigo Abdo Feres Sigiliao Travessa
 
 Linkedin https://www.linkedin.com/in/rodrigotravessa/
 
+Captura do Teste:
+
 ![Resposta Edabit](https://user-images.githubusercontent.com/90840099/161109057-165a9e66-f01b-4eba-bf00-5868be1b11f8.PNG)
 
 https://edabit.com/challenge/YGhgctqPsKQxQQCFS
